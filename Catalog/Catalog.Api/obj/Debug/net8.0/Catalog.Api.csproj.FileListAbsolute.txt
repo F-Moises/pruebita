@@ -1,0 +1,104 @@
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.staticwebassets.endpoints.json
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.exe
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.deps.json
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.runtimeconfig.json
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.pdb
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.AssemblyInfo.cs
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\scopedcss\bundle\Catalog.Api.styles.css
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.Catalog.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.Catalog.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Catalog.Api.props
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Catalog.Api.props
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Catalog.Api.props
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog..27BC043B.Up2Date
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\refint\Catalog.Api.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.pdb
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.genruntimeconfig.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\ref\Catalog.Api.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.exe
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.deps.json
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.runtimeconfig.json
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.pdb
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.csproj.AssemblyReference.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.AssemblyInfoInputs.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.AssemblyInfo.cs
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.csproj.CoreCompileInputs.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.Catalog.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Catalog.Api.props
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Catalog.Api.props
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Catalog.Api.props
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\scopedcss\bundle\Catalog.Api.styles.css
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog..27BC043B.Up2Date
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\refint\Catalog.Api.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.pdb
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.genruntimeconfig.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\ref\Catalog.Api.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.staticwebassets.endpoints.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.exe
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.deps.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.runtimeconfig.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Catalog.Api.pdb
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.AssemblyInfo.cs
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\scopedcss\bundle\Catalog.Api.styles.css
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.Catalog.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.Catalog.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Catalog.Api.props
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Catalog.Api.props
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Catalog.Api.props
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog..27BC043B.Up2Date
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\refint\Catalog.Api.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.pdb
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.genruntimeconfig.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Api\obj\Debug\net8.0\ref\Catalog.Api.dll

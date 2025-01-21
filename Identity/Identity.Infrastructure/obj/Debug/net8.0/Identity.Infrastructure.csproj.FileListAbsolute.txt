@@ -1,0 +1,57 @@
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Infrastructure.deps.json
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Infrastructure.runtimeconfig.json
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Infrastructure.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Infrastructure.pdb
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Application.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Application.pdb
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.AssemblyInfo.cs
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.9C1318B7.Up2Date
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\refint\Identity.Infrastructure.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.pdb
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.genruntimeconfig.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\ref\Identity.Infrastructure.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Infrastructure.deps.json
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Infrastructure.runtimeconfig.json
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Infrastructure.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Infrastructure.pdb
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Application.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Application.pdb
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.AssemblyInfo.cs
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.9C1318B7.Up2Date
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\refint\Identity.Infrastructure.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.pdb
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.genruntimeconfig.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\ref\Identity.Infrastructure.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Infrastructure.deps.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Infrastructure.runtimeconfig.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Infrastructure.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Infrastructure.pdb
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Application.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Application.pdb
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.AssemblyInfo.cs
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.9C1318B7.Up2Date
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\refint\Identity.Infrastructure.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.pdb
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.genruntimeconfig.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Identity\Identity.Infrastructure\obj\Debug\net8.0\ref\Identity.Infrastructure.dll

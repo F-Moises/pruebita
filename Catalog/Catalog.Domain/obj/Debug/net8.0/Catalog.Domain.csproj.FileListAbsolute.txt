@@ -1,0 +1,33 @@
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.deps.json
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.AssemblyInfo.cs
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\refint\Catalog.Domain.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.pdb
+C:\Users\david\source\repos\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\ref\Catalog.Domain.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.deps.json
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.AssemblyInfo.cs
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\refint\Catalog.Domain.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.pdb
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\ref\Catalog.Domain.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.deps.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.AssemblyInfo.cs
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\refint\Catalog.Domain.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.pdb
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Catalog\Catalog.Domain\obj\Debug\net8.0\ref\Catalog.Domain.dll

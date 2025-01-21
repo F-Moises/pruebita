@@ -1,0 +1,45 @@
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Application.deps.json
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Application.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Application.pdb
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.AssemblyInfo.cs
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\refint\Notification.Application.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.pdb
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\ref\Notification.Application.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Domain.dll
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Domain.pdb
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notifica.1404CAA7.Up2Date
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Application.deps.json
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Application.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Application.pdb
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Domain.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Domain.pdb
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.csproj.AssemblyReference.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.AssemblyInfoInputs.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.AssemblyInfo.cs
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.csproj.CoreCompileInputs.cache
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notifica.1404CAA7.Up2Date
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\refint\Notification.Application.dll
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.pdb
+C:\Users\Osmar Tito\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\ref\Notification.Application.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Application.deps.json
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Application.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Application.pdb
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Domain.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\bin\Debug\net8.0\Notification.Domain.pdb
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.AssemblyInfo.cs
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notifica.1404CAA7.Up2Date
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\refint\Notification.Application.dll
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.pdb
+C:\Users\USER\Downloads\MicroserviciosDemo2\MicroserviciosDemo\Notification\Notification.Application\obj\Debug\net8.0\ref\Notification.Application.dll
